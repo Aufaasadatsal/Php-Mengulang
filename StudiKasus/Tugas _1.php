@@ -9,7 +9,7 @@ echo "<hr>";
 
 echo "<h3>Lebih Kecil<h3>";
 echo "50 < 100"; echo "<br>";
-var_export(50 < 100); echo "<br>";
+var_export(100 < 50); echo "<br>";
 echo "<hr>";
 
 echo "<h3>Sama Dengan<h3>";
